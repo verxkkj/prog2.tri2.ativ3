@@ -24,13 +24,13 @@ O repositório deve possuir o nome:
 Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
 
 1. Classes e objetos
-https://www.typescriptlang.org/play/?#code/PQKgUABCEKIM4BcCmEDGBngJgSwOYHsJMkBbfAO0QCcBDCQgVzkOLQBsa44k4IV8ARgCskCfLwAONWhCpIJc7uQTSIEns058INcthI1scAHSRo8bmgqok2MRG5UAbigV18VXLuwAvVeKIaTACUVHwSCQ8VEiRlEJIIBgMIAC+9VDoeBCoGBAZaABozCAAzGlRsNjtdYJ1ZJFzK3xoAc4BjwhQ6A3Jc2PaWQgwcAmMIAGVSdk5uOAKHJCpsOnIkGy4AQ6X8YtQl1Sct5d4naWwNlyNtEoZyFoBXngWpWkxOMZgEsIjpVo6rBJJOg0AQeN64KYKfA2TD5GhseY0YoebCxFQDOqCERiXg0XA5KT0XhvYK8Lq4h5POQcCoUIJaKZJCAxOBkPhsUho-CmKDAMBgYDAaZcHj81AcLgQAAKGnwdAA3pAIMryOEkABCABcDmy2HIuH5yuVNAUPDR0gAFABKCCKo32qyUfAc4xsfC4C0AAwA8mwNvMYgwIKqYhAAJcQAAk8oQAAsjMYQ0gAL6eq1K5XJsBZsDimYQACCegMbFtGb4cHUFQ12uoeoN5dIdmwVHG4WtZYdRrCTpdbo9nujcYTPCrqOTpSQPkSCWYJDT5azOcFED1iF0FS0YooiDUspoAEYIABeYNIADu0v31rA6i4coPibVJ4gACIZZgqPhX9vKAg9-eNAAEwvqsl4yoBN53poQFPqGp6vkWNA-rmO7-t4JZHqeYGFsW8I3hh8KPqOayoi+r5eGIKE9ruhFsCB2EXrh+j4emdGwSR1bkRkqCxh4X4oSuyCIEgv7MC64pIJa6a3vuj4moo5pUFB+6wQpZrKNJ-J0cRJDNq27ZsXh9HGE2CAtm2JAqYB8mmkoKjKem0FympdlKTeQA
+[link 1](https://www.typescriptlang.org/play/?#code/PQKgUABCEKIM4BcCmEDGBngJgSwOYHsJMkBbfAO0QCcBDCQgVzkOLQBsa44k4IV8ARgCskCfLwAONWhCpIJc7uQTSIEns058INcthI1scAHSRo8bmgqok2MRG5UAbigV18VXLuwAvVeKIaTACUVHwSCQ8VEiRlEJIIBgMIAC+9VDoeBCoGBAZaABozCAAzGlRsNjtdYJ1ZJFzK3xoAc4BjwhQ6A3Jc2PaWQgwcAmMIAGVSdk5uOAKHJCpsOnIkGy4AQ6X8YtQl1Sct5d4naWwNlyNtEoZyFoBXngWpWkxOMZgEsIjpVo6rBJJOg0AQeN64KYKfA2TD5GhseY0YoebCxFQDOqCERiXg0XA5KT0XhvYK8Lq4h5POQcCoUIJaKZJCAxOBkPhsUho-CmKDAMBgYDAaZcHj81AcLgQAAKGnwdAA3pAIMryOEkABCABcDmy2HIuH5yuVNAUPDR0gAFABKCCKo32qyUfAc4xsfC4C0AAwA8mwNvMYgwIKqYhAAJcQAAk8oQAAsjMYQ0gAL6eq1K5XJsBZsDimYQACCegMbFtGb4cHUFQ12uoeoN5dIdmwVHG4WtZYdRrCTpdbo9nujcYTPCrqOTpSQPkSCWYJDT5azOcFED1iF0FS0YooiDUspoAEYIABeYNIADu0v31rA6i4coPibVJ4gACIZZgqPhX9vKAg9-eNAAEwvqsl4yoBN53poQFPqGp6vkWNA-rmO7-t4JZHqeYGFsW8I3hh8KPqOayoi+r5eGIKE9ruhFsCB2EXrh+j4emdGwSR1bkRkqCxh4X4oSuyCIEgv7MC64pIJa6a3vuj4moo5pUFB+6wQpZrKNJ-J0cRJDNq27ZsXh9HGE2CAtm2JAqYB8mmkoKjKem0FympdlKTeQA0)
 
 0. Atributos e métodos
-
+[link 1](https://www.typescriptlang.org/play/?#code/PQKgUABCEKIM4BcCmEDGBngJgSwOYHsJMkBbfAO0QCcBDCQgVzkOLQBsa44k4IV8ARgCskCfLwAONWhCpIJc7uQTSIDEnVQUVEATXKoAh1Ww1I0FOrpsARySmYaAOlhcUWg0mxj6VXPuwALzpxIhpMUJROCBoAc4BXniJ3cJDhUXwAGggAMxpUbDZvfQjzGNkkBgRCoLiAY8IoiA1yKqRyWIaiQgwcAhcAZVJ2Tm44bO4TOnIkVB44Y2weqaoIADdpbEM1rzgylByGDsTebilaR0lpTVS0TiyIMSpyEsIerDxCEnbQ-D8A4IRJxlGAkND4ezXTo9CFqDQxAR-Ry4YYKfBzTAMWhsbIhEztFTQ8qCERiXhyABfM3ovEcEV4-D2UHB9j+Km+ylCcg4BQo4UiYKszR48J4CCoVSxznMwDAYGAwBGbj2YFQHC4EAAwtoaAAhfSoTZ0ADekAg5rgNDYEQAXBBWiQBEhVgBeCAABjl5vNxAk4mKVAAFBs2H87Q6nVQAJQQU3e+OPAAW2DgTkt1sIAGo3SG-maE+DKPg2EgnKHcIGAAYDK22iAAJQGEAAJMaEMnU+mIgBfStR-MQbtgIeq9W8AAyNEhjljA6K-kcdsRxaQ+ggbrybG4Xu98+kgZjcYLSZTZbwtzd4oYSAH8Y8zBLZfwFYAROO7A5rOfHC-+-GhyOCoQNglAqAYphEqwJIZCq94IIWOhujMADuWo6vqBhGgeqoUIgEAcNOdBIUgqGToR2FyveK5OGqq5Bv2OHKM4vr+ioQYAIzuu6-YeCoTgsXAAaBgArNxcoEZ+Z7+PRQA)
 
 0. Construtores (constructor)
-
+[link 1](https://www.typescriptlang.org/play/?#code/PQKgUABCEKIM4BcCmEDGBngJgSwOYHsJMkBbfAO0QCcBDCQgVzkOLQuoYXyqTggAcatCNnLZU2GgBtsALyH0ARgCskXPuUJkSSclyI1I0VFUkBzgMf4AdLDhwUqCqiTZ9AMxoSZCOnWLuotiWLPh8NAimipxhADRErgAeNOSYhIQYOAQQJDTYcEb0VLgpcjRpEChIAG5uKRVO5IG4DLRmAK+8OSkMeeH86OEilL7kEjQhtgDKpGwjVDE8cLGFDqZ05Egu9gCHpoQRUQzYVPR81dLcXayo5XT4KmqEDoK0mDQ6eki2MCRsJK8JlZ-hBCgxchAaIpuO9cLN+FR8C5MK1pPF7qZdL4QpClKp1BAeAAvzZnAxpPgoML-fjcXyfdSFWbgug6OAQ3iRTio6xGYBgMDAYAJQJiHE3KQ0ey8AWoSX2CAABURKP0AG9IBAtY0OKguFQABSarUmgQMRQyVAQTQ6ABcEGoolwK1Npv45stAh4Tnt5HBiiQVGNEAAlBA1QBfAWmsjUIQGsMa10mnX4KTfKT4XAGgAGABI1QgABb5aw2pARtBMXwQABKUwgBeLpYRW3wEZzIeDUajYDlUr4AEEpAxNOHgzquXruEbk1r3RbxNb8HaHZEnS65wvPahWsx7Y7yLhg4ne6aaK2HHp44ng6bU+nrJns-nCyW4GWVxXKogGO9G2+pa7lQzAdl2po9gKQrDIgKTjOKVKPIyfbsAgXr4Kq+AAIwQAAvNaSAAO5KiqMQGgARC4I6SlQ5HxFhAAMTFdpO6GYQATHhBHEcqGFkeRyDprUcBWHRECMQxXYoSMkIjpoOH4ZsxHDqO+AUYqSCYIiYnkQAspp4iiDQ5EsahsmqZxilERAKmaBRg7kMZ8TkQA8mkehplmkgmbK7Bpt8cpIDeAoInxXBYdYsaRMFoUcZFYTRYaUnSKpEUXksWLBSlmjsdY6W8JlSVgEAA)
 
 0. Instanciação de objetos
 0. Modificadores de acesso (public, private, protected)
@@ -50,93 +50,3 @@ https://www.typescriptlang.org/play/?#code/PQKgUABCEKIM4BcCmEDGBngJgSwOYHsJMkBbf
 0. Parâmetros padrão
 0. Herança simples
 0. Cadeia de herança
-----------------------
-
-// JUSTIFICATIVA:
-// este código demonstra o uso de atributos e métodos.
-//  atributos armazenam informações dos objetos, enquanto os
-// métodos executam ações utilizando esses dados.
-// neste exemplo utilizamos as classes ContaBancaria e Lampada.
-
-// classes
-
-class ContaBancaria {
-    saldo: number = 0
-
-    depositar(valor: number) {
-        this.saldo += valor
-        console.log(`Saldo: RS ${this.saldo}`)
-    }
-}
-
-class Lampada {
-    ligada: boolean = false
-
-    ligar() {
-        this.ligada = true
-        console.log("Lâmpada ligada")
-    }
-}
-
-// instanciação de objetos
-
-const conta = new ContaBancaria()
-const lampada = new Lampada()
-
-
-console.clear()
-
-conta.depositar(100)
-conta.depositar(50)
-
-lampada.ligar()
-
------------------
-
-// JUSTIFICATIVA:
-// este código demonstra o uso do constructor.
-// construtor é executado automaticamente quando um objeto é criado,
-// permitindo inicializar os atributos obrigatórios.
-// neste exemplo utilizamos as classes Produto e Aluno.
-
-// definição de classes
-
-class Produto {
-    constructor(
-        public nome: string,
-        public preco: number
-    ) {}
-
-    mostrar() {
-        console.log(`${this.nome} custa RS ${this.preco}`)
-    }
-}
-
-class Aluno {
-    constructor(
-        public nome: string,
-        public curso: string
-    ) {}
-
-    apresentar() {
-        console.log(`${this.nome} estuda ${this.curso}`)
-    }
-}
-
-// instanciação de objetos
-
-const produto1 = new Produto("Notebook", 1000)
-const produto2 = new Produto("Mouse", 100)
-
-const aluno1 = new Aluno("Bernardo", "Arquitetura")
-const aluno2 = new Aluno("Filipe", "Engenharia Civil")
-
-console.clear()
-
-produto1.mostrar()
-produto2.mostrar()
-
-aluno1.apresentar()
-aluno2.apresentar()
-0. Tratamento de exceções (throw, try, catch)
-0. Classes e herança de classes de erro
